@@ -7,6 +7,11 @@ A PCB for a 2.9" E-Ink Display. Requires #no #power an can be configured using @
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-Passive-2.9-E-Ink-Display.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-2.9-E-Ink-Display/total?style=for-the-badge)
 
+[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
+ [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+ [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
+ [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
+ 
 ### Status
 ![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/working_yellow.png)  Waiting to be tested.
 
