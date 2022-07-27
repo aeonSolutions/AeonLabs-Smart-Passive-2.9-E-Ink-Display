@@ -35,9 +35,26 @@ The price will be around 30eur plus postage fees.
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
-## Q&A WhatsApp Group
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
-[LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+
+
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg) | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
+|-------------|------|
+
+<br />
+<br />
+
+## Q&A WhatsApp/Telegram Groups
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week. [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0) [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) |
+|-------------|------|
+
+
+<br />
+<br />
+<br />
+
+## Youtube Channel
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/youtube.png) | Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is .... |
+|-------------|------|
 
 ________________________________________________________________________________________________________________
 ## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
