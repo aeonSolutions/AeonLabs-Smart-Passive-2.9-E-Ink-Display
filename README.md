@@ -71,6 +71,45 @@ ________________________________________________________________________________
 - FPC 10 pint connector: https://s.click.aliexpress.com/e/_AEUWtr
 - SMD capacitors: https://s.click.aliexpress.com/e/_Asa5qd
 
+## Fully assembled PCB
+| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie. |
+|-------------|------|
+
+
+The price starts at 30eur plus postage fees.
+(I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
+
+**Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Link below.**
+
+<br />
+<br />
+<br />
+
+## Firmware Download / Burner
+To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
+
+![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png)
+
+<br />
+<br />
+<br />
+
+______________________________________________________________________________________________________________________________
+## Need a custom PCB for your DIY or Maker projects ?
+Get a Free PCB for yourself!
+Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
+
+- Home appliances
+- Office appliances
+- Industrial and commercial tools, equipment, machinery and appliances.
+
+I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Or email me at mtpsilva@gmail.com for more info.  Links above.
+
+<br />
+<br />
+<br />
+
+
 ______________________________________________________________________________________________________________________________
 
 ### License
@@ -87,9 +126,32 @@ if you like to own a copy of this work, you can buy it as a NFT or Ethereum. Con
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-### Be supportive of my dedication and work towards technology education and buy me a coffee
+______________________________________________________________________________________________________________________________
+
+<br />
+<br />
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
+
+<br />
+<br />
+
+### Make a donation on Paypal
+Make a donation on paypal and get a TAX refund*.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+
+
+### Support all these open hardware projects and become a patreon  
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
+In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+
+
 
 
 
