@@ -27,6 +27,7 @@ If you already tested this PCB send me a message. Thank you
   
 [![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=yhV5l2h_k9U)
 
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-2.9-E-Ink-Display/blob/main/designs/pcb_back.png)
 
 ### alternatively if you do not want to build a PCB by yourself, you can buy here:
 
